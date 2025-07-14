@@ -4,6 +4,22 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>Penny</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Marlon Lima</Authors>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <RepositoryUrl>https://github.com/MarlonnLima/money-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/MarlonnLima/money-extension</PackageProjectUrl>
+    <PackageLicenceExpression>MIT</PackageLicenceExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>Money;decimal;int;convert;cents</PackageTags>
+    <Title>Penny</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>
