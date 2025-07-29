@@ -4,7 +4,7 @@
 public sealed class MoneyExtensionTests
 {
     [TestMethod]
-    public void ShouldConvertDecimalToInt()
+    public void ShouldConvertDecimalToCents()
     {
         decimal valor = 279.98M;
         var cents = valor.ToCents();
