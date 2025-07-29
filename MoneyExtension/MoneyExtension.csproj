@@ -15,7 +15,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>Money;decimal;int;convert;cents</PackageTags>
     <Title>Penny</Title>
-    <Summary>Extension to convert decimal to integer</Summary>
+    <Summary>Penny is a extension to convert decimal(money) to cents</Summary>
   </PropertyGroup>
 
   <ItemGroup>
